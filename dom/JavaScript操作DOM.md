@@ -17,7 +17,7 @@
  - onclick/onload/onunload/onchange/onmouseover/onmouseout/onmousedown/onmouseup
  - document.getElementById("myBtn").onclick
  - [HTML DOM Event](http://www.w3school.com.cn/jsref/dom_obj_event.asp)
- - <a href="http://www.w3school.com.cn/jsref/dom_obj_event.asp)" target="_blank">HTML DOM Event</a>
+ - <a href="http://www.w3school.com.cn/jsref/dom_obj_event.asp" target="_blank">HTML DOM Event</a>
  
 5.document对象
  - HTML DOM Document:document，

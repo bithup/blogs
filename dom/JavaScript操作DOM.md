@@ -53,3 +53,12 @@
    </body>
  </html>
  ```
+Java代码
+```
+public class Demo {
+    int a;
+    public void say() {
+        get();
+    }
+}
+```

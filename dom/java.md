@@ -70,9 +70,6 @@ Java SE 6
 
 Java SE 7
 - switch字符串
-```java
-
-```
 - 泛型对象类型推断
 - catch多个异常
 - 动态语言支持
@@ -125,7 +122,7 @@ volatile | 标记字段可能会被多个线程同时访问，而不做同步
 - [oracle官方tutorial关键字列表](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 
 
-###Java命名规范
+### Java命名规范
 - 什么叫标识符
 - 只能包含字母、数字、下划线和$组成
 - 不能以数字开头，长度不限，区分大小写
@@ -161,9 +158,9 @@ public Custom(long id, String companyName, String IDCard) {
 另外，属性名前两个字母不能一个大写一个小写，要么同时大写，要么同时小写  
 例如：iDCard，IdCard都是非法的
 
-###Java数据类型
+### Java数据类型
 
-######基本类型
+###### 基本类型
 类型|占用字节|数值表示范围|默认值
 ----|----|----|----
 byte|1|-128~127| |

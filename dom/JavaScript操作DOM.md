@@ -44,4 +44,12 @@
   - history：历史信息
   - location：当前URL
  
- 
+ ```
+ <html>
+   <head>
+   </head>
+   <body>
+     <div>this is </div>
+   </body>
+ </html>
+ ```

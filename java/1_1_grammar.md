@@ -10,7 +10,7 @@
 - 保留：goto、const
 
 ### 不常用
-key word|description 
+key word|description  
 -------------|-----------
 default      | switch语句中的默认分支  
 native       | 表示方法用非java代码实现

@@ -172,3 +172,9 @@ head|head
 ----|----
 abc |def
 
+表格
+
+abc    |def    |gdd
+-------|-------|-------
+assert |dfdfdfd|kdkdkdk
+

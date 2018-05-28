@@ -64,6 +64,12 @@ boolean |not sure|true false  |false
 - Java浮点数结构
 - Javalong型长度和系统位数的关系
 - Java使用UTF16编码
+- boolean类型取决与使用情况和JVM具体实现，单个boolean值使用int表示，boolean数组中boolean用byte表示
+- 大型稀疏矩阵使用byte数组更节约空间
+- 数值包装类都继承值Number抽象类
+- Java中char是Unicode编码，无宽窄字符之分
+- 整数默认是int，尾部加L表示long，浮点数默认是double，尾部加f表示float
+- 引用所占内存空间与系统位数有关，64位系统占8个字节
 > 问：short s1 = 1; s1 = s1 + 1;有什么错?  
       short s1 = 1; s1 += 1;有什么错?  
       short x = 1; y = 2; short z = x + y;有什么错？  

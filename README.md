@@ -5,9 +5,7 @@
 - [history]()
 
 ### HTML
-- [DOM operation](https://bithup.github.io/blogs/dom/JavaScript操作DOM)
-- [java](https://bithup.github.io/blogs/dom/java)
-
+- [DOM operation](https://bithup.github.io/blogs/dom/JavaScript操作DOM)
 
 ### github
 - [git command]()

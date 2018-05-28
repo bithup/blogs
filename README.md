@@ -1,12 +1,5 @@
 ## Blog List
 
-### github
-Git使用方法
-- [git命令]()
-
-Github
-
-
 ### Java
 Java基础
 - [语法]()
@@ -16,6 +9,14 @@ Java基础
 - Dom
  - [DOM操作](https://bithup.github.io/blogs/dom/JavaScript操作DOM)
  - [java](https://bithup.github.io/blogs/dom/java)
+
+
+### github
+###### Git使用方法
+- [git命令]()
+
+###### Github
+- [github page 主题]()
 
 
 

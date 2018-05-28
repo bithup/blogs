@@ -10,6 +10,7 @@
 - 保留：goto、const
 
 ### 不常用
+
 key word|description  
 -------------|-----------
 default      | switch语句中的默认分支  
@@ -42,6 +43,7 @@ assert       | 断言条件是否满足
 ## Java数据类型
 
 ### 基本类型
+
 type    |space   |range       |default
 --------|--------|------------|---------
 byte    |1       |-128~127    |0

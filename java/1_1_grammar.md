@@ -94,7 +94,8 @@ x + y表达式计算的值默认是int32，所以会出错。
 ## Java运算符优先级和结合性
 
  ### 表格
- priority|operator      |associative
+ 
+priority|operator      |associative
 --------|--------------|-----------
 1       |() . []       |左到右
 2       |! + - ~ ++ -- |右到左
@@ -168,15 +169,3 @@ public class Demo {
 - do while
 - switch case
 - assert
-
-
-head|head
-----|----
-abc |def
-
-表格
-
-abc    |def    |gdd
--------|-------|-------
-assert |dfdfdfd|kdkdkdk
-

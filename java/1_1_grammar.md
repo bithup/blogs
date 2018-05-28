@@ -30,7 +30,7 @@ assert       |断言条件是否满足
 - [Java SE官方文档](https://docs.oracle.com/javase/10/)
 - [oracle官方tutorial关键字列表](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 
-## 标识符
+## Java标识符
 - 类名、接口名、方法名、变量名
 - 只能包含字母、数字、下划线、$和￥组成，不能以数字开头，长度不限，区分大小写
 - 一个类文件可以包含多个class，只有一个public class
@@ -64,6 +64,23 @@ boolean |not sure|true false  |false
 - Java浮点数结构
 - Javalong型长度和系统位数的关系
 - Java使用UTF16编码
+> 问：short s1 = 1; s1 = s1 + 1;有什么错?  
+      short s1 = 1; s1 += 1;有什么错?  
+      short x = 1; y = 2; short z = x + y;有什么错？  
+答：因为给short赋值时并没有像float那样使用f，明确指出类型；  
+所以short s1 = 1; s1 += 1;这两个
+表达式右边的 1 都会被当成int16；所有不会报错；
+而s1 = s1 + 1右边的表达式计算的结果是int32的所以报错。
+x + y表达式计算的值默认是int32，所以会出错。
+
+### Java字符串与数组
+- 字符数组与字符串的区别
+- 数组是一个对象，是哪个类的对象
+- 底层结构
+- 占用内存
+- 一个中文字符在内存中占几个字节
+- 引用类型的类型转换，强转
+
 
 
 变量的初始化，类的属性，在创建对象时会默认初始化，但是在方法中定义的局部变量必须先初始化，再使用

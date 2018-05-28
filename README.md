@@ -1,7 +1,7 @@
 ## Blog List
 
 ### Java
-Java基础
+#### Java基础
 - [语法]()
 - [历史]()
 
@@ -12,10 +12,10 @@ Java基础
 
 
 ### github
-###### Git使用方法
+#### Git使用方法
 - [git命令]()
 
-###### Github
+#### Github
 - [github page 主题]()
 
 

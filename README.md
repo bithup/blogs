@@ -1,7 +1,7 @@
 ## Blog List
 
 ### Java
-- [grammar](https://bithup.github.io/blogs/java/grammar)
+- [grammar](https://bithup.github.io/blogs/java/1_1_grammar)
 - [history]()
 
 ### HTML

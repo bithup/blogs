@@ -46,11 +46,11 @@ type    |space   |range       |default
 --------|--------|------------|---------
 byte    |1       |-128~127    |0
 short   |2       |-2^15~2^15-1|0
-char    |2       |-2^15~2^15-1|''
+char    |2       |-2^15~2^15-1|'\u0000'
 int     |4       |-2^31~2^31-1|0
-float   |4       |3.4028235E38|0.0
+float   |4       |3.4028235E38|0.0F
 long    |8       |-2^63~2^63-1|0
-double  |8       |IEEE754     |0.0
+double  |8       |IEEE754     |0.0D
 boolean |not sure|true false  |false
 
 ### 基本类型隐式转换
@@ -60,7 +60,7 @@ boolean |not sure|true false  |false
 - byte/short/char与整数运算，默认隐式转换为int
 - short与char如何转换
 - long到float是自动转换吗
-- 为什么是-128，而不是-127       10000000
+- [为什么是-128，而不是-127](https://www.cnblogs.com/ysj4428/p/6030771.html)
 - Java浮点数结构
 - Javalong型长度和系统位数的关系
 - Java使用UTF16编码

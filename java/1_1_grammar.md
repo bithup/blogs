@@ -30,7 +30,14 @@ assert       |断言条件是否满足
 - [Java SE官方文档](https://docs.oracle.com/javase/10/)
 - [oracle官方tutorial关键字列表](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 
-
+## 标识符
+- 类名、接口名、方法名、变量名
+- 只能包含字母、数字、下划线、$和￥组成，不能以数字开头，长度不限，区分大小写
+- 一个类文件可以包含多个class，只有一个public class
+- main函数的修饰符public static、返回值void、参数String[] args
+- 变量名首字母大写和class首字母小写都是可以的，而且class首字母小写，创建对象时  
+对象名和类名相同不会报错;但是Bean的属性名首字母大写，在生成构造函数以及setter  
+和getter方法时会出错；
 
 
 

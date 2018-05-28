@@ -4,11 +4,10 @@
 - 类和接口：class、interface、extends、implements、new、instanceof、package、import、enum
 - 访问权限：public、private、protected
 - 异常处理：try、catch、finally、throw、throws
-- 流程控制：do、while、if、else、for、continue、break、switch、case、default、return
+- 流程控制：do、while、if、else、for、continue、break、switch、case、default、return、assert  
 - 类型修饰符：static、final、native、abstract、synchronized、volatile、strictfp、transient
 - 引用：this、super、void
 - 保留：goto、const
-- 其他：assert  
 
 ### 不常用
 key word     |description

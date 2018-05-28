@@ -10,15 +10,15 @@
 - 保留：goto、const
 
 ### 不常用
-key word     |description
+key word     | description
 -------------|-----------
-default      |switch语句中的默认分支  
-native       |表示方法用非java代码实现
-synchronized |表示同一时间只能由一个线程访问的代码块
-volatile     |标记字段可能会被多个线程同时访问，而不做同步
-strictfp     |浮点数比较使用严格的规则 
-transient    |修饰不要序列化的字段
-assert       |断言条件是否满足
+default      | switch语句中的默认分支  
+native       | 表示方法用非java代码实现
+synchronized | 表示同一时间只能由一个线程访问的代码块
+volatile     | 标记字段可能会被多个线程同时访问，而不做同步
+strictfp     | 浮点数比较使用严格的规则 
+transient    | 修饰不要序列化的字段
+assert       | 断言条件是否满足
 
 ### 小结
 - 一共有50个关键字，其中const和goto没有使用

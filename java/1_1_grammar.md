@@ -170,6 +170,7 @@ public class Demo {
 
 ## Java流程控制语法
 - for
+- while
 - do while
 - switch case
 - assert

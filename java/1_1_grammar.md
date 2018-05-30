@@ -65,6 +65,7 @@ boolean |not sure|true false  |false
 - byte/short/char与整数运算，默认隐式转换为int
 - short与char如何转换
 - long到float是自动转换吗
+- float和double的小数不是绝对精确的，比较时不能直接与0比较或相减与0比较
 - [为什么是-128，而不是-127](https://www.cnblogs.com/ysj4428/p/6030771.html)
 - Java浮点数结构
 - Javalong型长度和系统位数的关系

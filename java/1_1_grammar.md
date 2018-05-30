@@ -58,6 +58,8 @@ boolean |not sure|true false  |false
 
 ### 基本类型隐式转换
 - boolean类型不能转换
+- byte,short,char到int到float到long到double自动转换
+- byte,short,char之间不能自动转换
 - 浮点数转换整数的方式是去掉小数点
 - 字节数少的类型转字节数多的类型，自动转换
 - byte/short/char与整数运算，默认隐式转换为int

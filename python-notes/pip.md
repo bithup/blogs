@@ -1,0 +1,2 @@
+- 打印一个包的详细信息
+- pip show packagename

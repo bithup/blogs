@@ -1,0 +1,40 @@
+junit单元测试，assert
+Linux命令
+vim编辑器
+Mysql
+Tomcat
+jQuery/js 
+css  bootstrap
+struts1 struts2的区别
+mybatis #{}和${}的区别，和hibernate的区别
+
+java
+JDK和JRE的区别
+如何比较一个字符串变量和一个字符串常量是否相等，如何避免空指针异常
+基本数据类型及其包装类
+抽象类没有抽象方法，作用
+字节流和字符流，
+
+常用集合类
+ArrayList和LinkedList
+遍历一个Map集合有哪些方式
+一个定义为final的List集合中的元素值是否可改变
+
+创建线程的方式，使用Thread类创建并运行一个线程的流程
+notify和notifyAll的区别
+run方法和start方法的区别
+
+常见Java异常，一般如何处理异常
+
+编码中常用设计模式，单例模式，包装，工厂模式
+
+spring的核心是什么
+如何注入依赖
+常用注解
+
+
+session的原理，异步跨域请求，SSO
+
+
+假设有两张表a,b 都有字段name,统计量表中有多少个不同的名字
+多表联合查询，是如何对两张表的数据进行处理和筛选的
